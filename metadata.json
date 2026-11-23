@@ -1,0 +1,6 @@
+{
+  "name": "Autonomous Predictive Learning Node",
+  "description": "Autonomous Predictive Learning Node with online Euclidean clustering, Markov state transitions, Q-learning, and live dark-mode dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
